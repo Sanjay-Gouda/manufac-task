@@ -1,4 +1,4 @@
-# Please Follow Below steps to get started 
+# Please Follow Below steps to get started
 
 ## After cloning the repos
 
@@ -20,4 +20,6 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](assets/line-chart.png)
+![App Screenshot](assets/bar-chart.png)
+![App Screenshot](assets/responsive.png)
