@@ -23,7 +23,6 @@ LINE CHART
 ![Line Chart](src/assets/line-chart.png)
 
 BAR CHART
-![Bar Chart](src/assets/bar-chart.png)
+![Bar Chart](src/assets/bar-chart.png
 
-RESPONSIVE MEDIA
 ![Responsive Screenshot](src/assets/responsive.png)
