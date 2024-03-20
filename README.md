@@ -20,6 +20,6 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](assets/line-chart.png)
-![App Screenshot](assets/bar-chart.png)
-![App Screenshot](assets/responsive.png)
+![App Screenshot](src/assets/line-chart.png)
+![App Screenshot](src/assets/bar-chart.png)
+![App Screenshot](src/assets/responsive.png)
