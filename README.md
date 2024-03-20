@@ -19,7 +19,11 @@ Start the server
 ```
 
 ## Screenshots
+LINE CHART
+![Line Chart](src/assets/line-chart.png)
 
-![App Screenshot](src/assets/line-chart.png)
-![App Screenshot](src/assets/bar-chart.png)
-![App Screenshot](src/assets/responsive.png)
+BAR CHART
+![Bar Chart](src/assets/bar-chart.png)
+
+RESPONSIVE MEDIA
+![Responsive Screenshot](src/assets/responsive.png)
